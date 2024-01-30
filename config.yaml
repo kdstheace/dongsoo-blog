@@ -1,0 +1,38 @@
+baseURL: ""
+languageCode: en-us
+title: DONGSOO's Blog
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Global IT Diplomat"
+    Content: "Hello, I'm Dongsoo Kim from Korea. Cloud Engineer, Backend Developer, Diplomat in private sector."
+    Extra: "Language: English(fluent), Japanese(fluent), Korean(native)"
+  socialIcons:
+    - name: github
+      url:
+    - name: linkedin
+      url:
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  hideFooter: true
+
+menu:
+  main:
+    - idetifier: categories
+      name: Categories
+      url: /categories/
+      weith: 10
+    - idetifier: tags
+      name: Tags
+      url: /tags/
+      weith: 20
+    - idetifier: archives
+      name: Archives
+      url: /archives/
+      weith: 30
