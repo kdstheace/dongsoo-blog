@@ -12,7 +12,7 @@ params:
     - name: github
       url:
     - name: linkedin
-      url:
+      url: https://www.linkedin.com/in/dongsoo-kim-711211254/
   cover:
     linkFullImages: true
 
