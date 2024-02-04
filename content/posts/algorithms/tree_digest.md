@@ -1,6 +1,6 @@
 ---
 title: "Tree Digest"
-date: 2024-02-1T23:16:29+09:00
+date: 2024-02-01T23:16:29+09:00
 draft: false
 tags: ["BinaryTree", "Heap"]
 categories: ["Data Structures & Algorithms"]
